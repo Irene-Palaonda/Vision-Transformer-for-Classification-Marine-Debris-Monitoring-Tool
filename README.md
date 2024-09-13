@@ -1,6 +1,6 @@
 # Using a Vision Transformer for Multilabel Classification: Marine Debris Monitoring Tool </br>
 
-Implementing Keras ViT model to perform multilabel classification for marine debris detection. The model was trained on images of marine debris from 7 classes: bottles, bags, straws, buckets, fish, net and wrapping. After miltiple adjustments such as learning rate adjusment, data augmentation, dropout etc. The model achieved a prediciton accuracy of 96.7%. The model shows a '1' if it detects the class within the image, and a '0' of the class is not present.  </br>
+Implementing Keras ViT model to perform multilabel classification for marine debris detection. The model was trained on images of marine debris from 7 classes: bottles, bags, straws, buckets, fish, net and wrapping. After multiple adjustments such as learning rate adjusment, data augmentation, dropout etc. The model achieved a prediciton accuracy of 96.7%. The model shows a '1' if it detects the class within the image, and a '0' of the class is not present.  </br>
 
 #
 
